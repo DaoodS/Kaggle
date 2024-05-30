@@ -161,5 +161,7 @@ cython_debug/
 *dataset/
 */Details/dataset/
 */submission.csv
-*model/
+*models/
 *practice
+*tut-notebooks/
+*input
